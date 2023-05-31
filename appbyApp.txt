@@ -1,0 +1,999 @@
+  Library: {
+    '6': [ [Object], [Object], [Object], [Object], [Object], [Object] ]
+  },
+  Firefox: { '6': [ [Object] ], '435': [ [Object], [Object] ] },
+  'HRMS-E': {
+    '7': [ [Object], [Object], [Object] ],
+    '180': [ [Object], [Object] ]
+  },
+  cmd: {
+    '7': [ [Object], [Object], [Object], [Object], [Object] ],
+    '47': [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    '61': [ [Object], [Object], [Object], [Object] ],
+    '95': [ [Object] ],
+    '484': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '575': [ [Object] ]
+  },
+  mintty: {
+    '7': [ [Object] ],
+    '180': [ [Object], [Object] ],
+    '481': [ [Object], [Object], [Object] ],
+    '484': [ [Object], [Object], [Object], [Object] ]
+  },
+  'Tk 8.6 for Windows': { '7': [ [Object], [Object] ] },
+  'IntelliJ IDEA': {
+    '7': [ [Object], [Object] ],
+    '108': [ [Object], [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Microsoft Edge': {
+    '7': [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    '15': [ [Object], [Object], [Object] ],
+    '48': [ [Object], [Object] ],
+    '58': [ [Object], [Object] ],
+    '80': [ [Object], [Object], [Object] ],
+    '95': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 32 more items
+    ],
+    '101': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    '105': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '475': [ [Object] ],
+    '1222': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '1333': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  '- localhost:8080/': { '7': [ [Object], [Object] ] },
+  SkypeClient: {
+    '9': [ [Object] ],
+    '22': [ [Object], [Object], [Object], [Object], [Object] ],
+    '26': [ [Object], [Object], [Object] ],
+    '29': [ [Object], [Object] ],
+    '36': [ [Object], [Object], [Object] ],
+    '38': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '44': [ [Object], [Object] ],
+    '52': [ [Object] ],
+    '59': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '61': [ [Object], [Object], [Object], [Object] ],
+    '70': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '89': [ [Object] ],
+    '93': [ [Object], [Object], [Object], [Object], [Object] ],
+    '99': [ [Object], [Object], [Object] ],
+    '101': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '105': [ [Object], [Object], [Object] ],
+    '106': [ [Object], [Object] ],
+    '108': [ [Object], [Object] ],
+    '409': [ [Object], [Object], [Object], [Object], [Object] ],
+    '435': [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    '466': [ [Object], [Object] ],
+    '502': [ [Object], [Object] ],
+    '575': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '580': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  'StartMenuExperienceHost.exe': {
+    '9': [ [Object] ],
+    '15': [ [Object], [Object] ],
+    '29': [ [Object] ],
+    '61': [ [Object], [Object], [Object] ],
+    '80': [ [Object] ],
+    '93': [ [Object] ],
+    '106': [ [Object] ],
+    '171': [ [Object] ],
+    '484': [ [Object], [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Android Studio': {
+    '15': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object]
+    ]
+  },
+  'Task Manager': {
+    '15': [ [Object], [Object], [Object] ],
+    '70': [ [Object] ],
+    '86': [ [Object] ],
+    '93': [ [Object], [Object] ],
+    '99': [ [Object], [Object] ],
+    '101': [ [Object] ],
+    '105': [ [Object], [Object], [Object] ],
+    '108': [ [Object] ],
+    '575': [ [Object], [Object] ],
+    '1222': [ [Object], [Object], [Object] ],
+    '1247': [ [Object] ]
+  },
+  'Application Frame Host': {
+    '15': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '22': [ [Object], [Object] ],
+    '47': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '59': [ [Object], [Object] ],
+    '61': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '93': [ [Object] ],
+    '101': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '106': [ [Object] ],
+    '107': [ [Object] ],
+    '171': [ [Object] ],
+    '466': [ [Object], [Object] ],
+    '484': [ [Object], [Object] ],
+    '502': [ [Object] ],
+    '575': [ [Object], [Object], [Object] ],
+    '1222': [ [Object] ],
+    '1247': [ [Object], [Object] ]
+  },
+  'GitHub Desktop': { '15': [ [Object], [Object], [Object], [Object], [Object] ] },
+  'SearchHost.exe': {
+    '15': [ [Object] ],
+    '29': [ [Object] ],
+    '46': [ [Object] ],
+    '101': [ [Object] ],
+    '171': [ [Object], [Object] ],
+    '1222': [ [Object] ]
+  },
+  'Microsoft Teams': {
+    '15': [ [Object], [Object], [Object], [Object] ],
+    '70': [ [Object] ],
+    '435': [ [Object] ],
+    '1247': [ [Object] ]
+  },
+  'Restore pages?': { '16': [ [Object] ] },
+  'Microsoft Office': {
+    '16': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '101': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 47 more items
+    ],
+    '171': [ [Object] ],
+    '409': [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    '435': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 53 more items
+    ],
+    '475': [ [Object] ],
+    '1247': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  'dwm.exe': {
+    '16': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '29': [ [Object] ],
+    '38': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '61': [ [Object] ],
+    '86': [ [Object] ],
+    '93': [ [Object] ],
+    '99': [ [Object] ],
+    '101': [ [Object] ],
+    '409': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '475': [ [Object], [Object], [Object], [Object] ],
+    '575': [ [Object] ],
+    '1333': [ [Object] ]
+  },
+  SearchApp: {
+    '16': [ [Object] ],
+    '61': [ [Object] ],
+    '81': [ [Object], [Object], [Object], [Object], [Object] ],
+    '95': [ [Object] ],
+    '106': [ [Object] ],
+    '107': [ [Object], [Object] ],
+    '435': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '466': [ [Object] ],
+    '484': [ [Object], [Object], [Object] ],
+    '575': [ [Object], [Object], [Object], [Object], [Object] ],
+    '1333': [ [Object] ]
+  },
+  Open: {
+    '16': [ [Object], [Object] ],
+    '22': [ [Object], [Object], [Object], [Object] ],
+    '38': [ [Object], [Object] ],
+    '48': [ [Object] ],
+    '70': [ [Object] ],
+    '101': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '105': [ [Object], [Object], [Object] ],
+    '171': [ [Object] ],
+    '475': [ [Object] ]
+  },
+  'ESET Smart Security': { '16': [ [Object], [Object], [Object] ] },
+  ShellExperienceHost: {
+    '16': [ [Object] ],
+    '26': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '29': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '36': [ [Object] ],
+    '38': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '46': [ [Object], [Object] ],
+    '47': [ [Object], [Object], [Object] ],
+    '48': [ [Object], [Object], [Object], [Object], [Object] ],
+    '59': [ [Object], [Object], [Object] ],
+    '61': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '95': [ [Object] ],
+    '99': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '101': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    '105': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '171': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '409': [ [Object] ],
+    '435': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '466': [ [Object], [Object] ],
+    '484': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '502': [ [Object], [Object], [Object] ],
+    '575': [ [Object] ],
+    '580': [ [Object], [Object] ],
+    '1222': [ [Object] ],
+    '1247': [ [Object], [Object] ]
+  },
+  Notepad: {
+    '26': [ [Object], [Object] ],
+    '38': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '47': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '52': [ [Object], [Object] ],
+    '89': [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    '99': [ [Object] ],
+    '100': [ [Object], [Object] ],
+    '101': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    '105': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '106': [ [Object], [Object], [Object] ],
+    '435': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '466': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '575': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    '580': [ [Object], [Object] ],
+    '1247': [ [Object] ]
+  },
+  'MoNotificationUx.exe': { '29': [ [Object] ], '59': [ [Object], [Object] ] },
+  Spotify: {
+    '29': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '47': [ [Object], [Object] ],
+    '484': [ [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Microsoft Office 2016': { '29': [ [Object], [Object], [Object] ] },
+  'Notepad.exe': {
+    '29': [ [Object], [Object], [Object] ],
+    '46': [ [Object], [Object] ],
+    '59': [ [Object], [Object], [Object] ],
+    '101': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  },
+  'Standalone Scanner Components': { '29': [ [Object] ] },
+  startmenuexperiencehost: { '46': [ [Object] ] },
+  FileZilla: {
+    '46': [ [Object] ],
+    '47': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '70': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '171': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  KeePassXC: {
+    '47': [ [Object], [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Visual Studio Code': {
+    '47': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    '59': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '61': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    '95': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '481': [ [Object], [Object], [Object] ],
+    '484': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    '575': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 84 more items
+    ],
+    '580': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '1333': [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 64 more items
+    ]
+  },
+  'Visual Studio Code ': { '47': [ [Object] ], '95': [ [Object] ], '484': [ [Object] ] },
+  WinRAR: { '47': [ [Object], [Object] ], '100': [ [Object] ] },
+  'Save As': {
+    '47': [ [Object] ],
+    '101': [ [Object], [Object], [Object], [Object] ],
+    '171': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  },
+  'mmc.exe': { '48': [ [Object] ] },
+  'dllhost.exe': { '48': [ [Object] ] },
+  'Microsoft Office 2010': { '59': [ [Object], [Object], [Object] ] },
+  'Apache OpenOffice': { '59': [ [Object], [Object], [Object] ] },
+  'Microsoft Visual C++ 2008 Redistributable': { '59': [ [Object] ] },
+  'Windows Installer - Unicode': { '59': [ [Object] ] },
+  'setup.exe': { '59': [ [Object], [Object] ] },
+  ExtensionProcess64: { '59': [ [Object] ] },
+  'soffice.bin': {
+    '59': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    '80': [ [Object] ]
+  },
+  PickerHost: {
+    '59': [ [Object] ],
+    '61': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  },
+  'Notepad2.exe': {
+    '61': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  'ScreenClippingHost.exe': {
+    '61': [ [Object], [Object], [Object], [Object], [Object] ],
+    '180': [ [Object] ],
+    '484': [ [Object] ],
+    '575': [ [Object], [Object] ]
+  },
+  consent: { '61': [ [Object] ] },
+  PHP: { '61': [ [Object] ], '575': [ [Object] ] },
+  '7-Zip': { '61': [ [Object] ] },
+  AeTrayMenu: { '61': [ [Object], [Object] ] },
+  'Realtek HD Audio Manager': { '61': [ [Object] ] },
+  'Adobe Photoshop 2020': {
+    '70': [ [Object], [Object], [Object] ],
+    '93': [ [Object], [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Microsoft Office 2013': {
+    '70': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  Evernote: {
+    '70': [ [Object], [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Private Browsing': { '80': [ [Object] ] },
+  'XuMouse Application': { '81': [ [Object], [Object] ] },
+  'VLC media player': {
+    '89': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    '502': [ [Object], [Object], [Object], [Object], [Object] ]
+  },
+  'Leave site?': { '95': [ [Object] ] },
+  '- Brave': {
+    '99': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    '171': [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    '180': [ [Object], [Object], [Object], [Object] ]
+  },
+  MSPAINT: { '99': [ [Object], [Object] ] },
+  DiagWizard: { '101': [ [Object], [Object] ] },
+  rundll: { '101': [ [Object] ] },
+  HPAudioSwitch: { '101': [ [Object], [Object] ] },
+  'dsregcmd.exe': { '101': [ [Object], [Object] ] },
+  'linkedin.com': { '101': [ [Object] ] },
+  'Google Chat-Setup.tmp': {
+    '105': [ [Object], [Object], [Object] ],
+    '108': [ [Object] ],
+    '435': [ [Object] ],
+    '580': [ [Object], [Object] ]
+  },
+  SearchUI: { '105': [ [Object] ] },
+  'Internet Download Manager (IDM)': { '105': [ [Object] ] },
+  'xampp-control.exe': {
+    '171': [ [Object] ],
+    '580': [ [Object], [Object] ],
+    '1333': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  },
+  'Hardware Info Program for x64 (HWiNFO64)': { '171': [ [Object], [Object] ] },
+  'Mindbody.IdentityProvider Identity.Leg': { '409': [ [Object] ] },
+  Lightshot: { '409': [ [Object], [Object] ] },
+  Figma: {
+    '484': [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ]
+  },
+  'PuTTY suite': { '575': [ [Object], [Object], [Object], [Object], [Object] ] },
+  'MySQL Workbench': {
+    '575': [
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ]
+  },
+  SnippingTool: {
+    '575': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  },
+  AutoHotkey: { '580': [ [Object] ] },
+  'TechSmith Capture': { '1222': [ [Object] ] },
+  'mspaint.exe': {
+    '1222': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  },
+  'EaseOfAccessDialog.exe': { '1247': [ [Object] ] },
+  'McAfee UI Container': { '1247': [ [Object], [Object], [Object] ] },
+  ConEmu: {
+    '1333': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  }
+}
+total count: 12549
